@@ -15,9 +15,8 @@
 
 **GitHub-login:** AndreiChukh
 
-**Ссылка на GitHub Pages:** [ВСТАВЬТЕ ССЫЛКУ]
-
-**Ссылка на основной pull request:** [ВСТАВЬТЕ ССЫЛКУ]
+**Ссылка на GitHub Pages:** https://andreichukh.github.io/
+**Ссылка на основной pull request:** https://github.com/AndreiChukh/AndreiChukh.github.io/pull/1
 
 ---
 
